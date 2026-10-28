@@ -1,3 +1,13 @@
+# JavaScript Exercises - My Solutions
+
+Welcome to my repository for The Odin Project's JavaScript Exercises!
+
+This repository contains my personal solutions and progress as I work through the JavaScript exercises of The Odin Project.
+
+## Progress
+
+- Foundations - Data Types and Conditionals (/foundations/data_types_and_conditionals/)
+
 # JavaScript Exercises
 
 These JavaScript exercises are intended to complement the JavaScript content on [The Odin Project](https://www.theodinproject.com/) (TOP). They should only be done when instructed during the course of the curriculum.
